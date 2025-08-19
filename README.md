@@ -19,13 +19,3 @@ Below are some screenshots of the app in action:
    <img src="Screenshots/Captura de pantalla 2025-08-19 145002.png" alt="Result Phase" width="400" />
    <img src="Screenshots/Captura de pantalla 2025-08-19 145008.png" alt="Weather Map Modal" width="400" />
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1GoaNmqDsKpD5kdD8zHsYFAnYyhI4gAld
-
-## Run Locally
-
-**Prerequisites:**  Node.js

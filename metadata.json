@@ -1,0 +1,5 @@
+{
+  "name": "Lightning Distance Calculator",
+  "description": "An application to estimate the distance of a lightning strike by measuring the time between the flash and the sound of thunder. Start the timer when you see lightning and stop it when you hear thunder to get an approximate distance in miles and kilometers.",
+  "requestFramePermissions": []
+}

@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Lightning Distance Calculator
 
 This project is a web application that helps users estimate the distance to a lightning strike based on the time between seeing the lightning and hearing the thunder. It provides a simple, interactive interface for users to input timing, view results, and learn about lightning safety.
